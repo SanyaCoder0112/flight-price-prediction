@@ -1,0 +1,6 @@
+flight price detection
+
+Airfare prices can be hard to predict, today we might see the price, tomorrow look at the price of the same flight, it will be a different story. We may have often heard travelers say that airfares are so unpredictable. As data scientists, we prove that anything can be predicted with the right data.
+First I took a dataset of information about Flight time table and price, I filtered and preprocessed the data by removing null values, i used different python libraries including pandas, numpy, matplotlib and seaborn.
+I made comparision bar between time and price i.e when flight price is lesser whether morning,noon, evening or night.
+
